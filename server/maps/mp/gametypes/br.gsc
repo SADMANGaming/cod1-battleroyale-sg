@@ -708,6 +708,7 @@ spawnSpectator(origin, angles, died)
 spawnPlayer(origin, angles)
 {
     self notify("spawned");
+    maps\mp\gametypes\_thirdperson::main();
 
     resettimeout();
 
