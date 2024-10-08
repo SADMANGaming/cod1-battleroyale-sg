@@ -32,3 +32,4 @@ ___
 - ***Shop*** from Cheese's [Zombies Mod](https://github.com/thecheeseman/zombies_v5_r13)
 - ***Ammobox*** functionality logic from both Cheese and kill3r.
 - ***Blue light*** fx from BraXi's [Zombie Mod](https://github.com/BraXi/CoD1_Zombies_1.2_Mod)
+- ***Kazam***
