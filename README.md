@@ -6,6 +6,9 @@ ___
 - See the [wiki](https://github.com/coyoteclan/cod1-battleroyale/wiki)
 
 ___
+### Added features
+- Added third person
+___
 ### Some TODO
 - Implement a way for defining plane coordinates per map
 - Prevent players from getting stuck in each other when exiting plane
