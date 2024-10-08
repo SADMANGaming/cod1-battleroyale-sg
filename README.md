@@ -21,9 +21,6 @@ ___
 - Fix the bugs that you may find :)
 Tell us the bugs you may find and we will fix them.
 ___
-#### [Some videos](https://www.youtube.com/playlist?list=PLTiI1XPSd-uVS_saGvqfgk7hgguxHc1Y0)
-#### [More](https://coyote.rf.gd/battleroyale)
-___
 #### Some credits
 - ***zh_frenzy*** map: thanks to zilch
 - The [Killtube](https://www.killtube.org/) community
